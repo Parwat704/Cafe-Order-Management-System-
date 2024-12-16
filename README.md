@@ -8,8 +8,9 @@ Order Summary: Automatically calculates the total bill for the selected items.
 User-Friendly Interface: Designed with simplicity for seamless order-taking.
 
 🛠️ Tech Stack:
-Language: Python
-Libraries: Tkinter (for GUI)
+Languages: Python, HTML/CSS
+Frameworks: Flask (Web Backend), Tkinter (Desktop GUI)
+
 
 🔍 Future Enhancements:
 Add a database for order storage.
